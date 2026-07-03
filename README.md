@@ -48,7 +48,7 @@ Wearable health tracking is genuinely useful. Knowing how you slept, and whether
 
 Meanwhile, the COLMI R09, an unassuming smart ring with optical heart rate, SpO2, sleep staging, and step tracking, has been fully reverse-engineered by the open-source community. The sensors exist. The data is decodable. What's missing is the last mile: a clean, opinionated app that turns raw BLE packets into a single glanceable answer.
 
-So I built my own Oura, end to end, for one real user: **my dad**. Non-technical, won't open settings, won't troubleshoot Bluetooth, won't interpret a graph. Success is measured by one thing: he glances at his phone each morning and understands, in words, how he slept and whether to take it easy today.
+So I built my own Oura, end to end, for one real user: **my dad**. Success is measured by one thing: he glances at his phone each morning and understands, in words, how he slept and whether to take it easy today.
 
 ## What Daybreak Does
 
@@ -228,4 +228,3 @@ Released under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://github.com/reuhenbhalod">Reuhen Bhalod</a></p>
