@@ -34,13 +34,13 @@
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="215" alt="Home screen with the three daily scores and trends">
-  <img src="docs/screenshots/charts.png" width="215" alt="Daily steps and last night's sleep stages">
-  <img src="docs/screenshots/detail.png" width="215" alt="Blood oxygen trend and per-score contributor breakdown">
+  <img src="docs/screenshots/home.png" width="215" alt="Today screen with the three daily scores and last night's sleep">
+  <img src="docs/screenshots/charts.png" width="215" alt="Trends: score history and resting heart rate over the week">
+  <img src="docs/screenshots/detail.png" width="215" alt="Body: overnight heart rate and per-score contributor breakdown">
   <img src="docs/screenshots/onboarding.png" width="215" alt="One-time onboarding flow">
 </p>
 
-<p align="center"><em>The three daily scores with trends · steps and sleep-stage breakdowns · SpO2 and score contributors · the one-time setup flow</em></p>
+<p align="center"><em>Today's three scores and last night's sleep · score trends and resting heart rate · overnight vitals and score contributors · the one-time setup flow</em></p>
 
 ## The Problem
 
